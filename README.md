@@ -11,4 +11,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/fathimafathah7/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [2235-add-two-integers](https://github.com/fathimafathah7/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->
