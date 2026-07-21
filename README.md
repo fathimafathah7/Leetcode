@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/fathimafathah7/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/fathimafathah7/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [1952-three-divisors](https://github.com/fathimafathah7/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2235-add-two-integers](https://github.com/fathimafathah7/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/fathimafathah7/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fathimafathah7/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/fathimafathah7/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/fathimafathah7/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -42,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/fathimafathah7/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/fathimafathah7/Leetcode/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
