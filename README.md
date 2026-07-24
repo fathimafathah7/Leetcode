@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/fathimafathah7/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/fathimafathah7/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1952-three-divisors](https://github.com/fathimafathah7/Leetcode/tree/main/1952-three-divisors/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/fathimafathah7/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/fathimafathah7/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/fathimafathah7/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/fathimafathah7/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/fathimafathah7/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/fathimafathah7/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fathimafathah7/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/fathimafathah7/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 ## Simulation
@@ -36,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/fathimafathah7/Leetcode/tree/main/1952-three-divisors/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/fathimafathah7/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/fathimafathah7/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/fathimafathah7/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Prefix Sum
