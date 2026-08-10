@@ -32,12 +32,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/fathimafathah7/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/fathimafathah7/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fathimafathah7/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2974-minimum-number-game](https://github.com/fathimafathah7/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/fathimafathah7/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/fathimafathah7/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/fathimafathah7/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/fathimafathah7/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/fathimafathah7/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -68,4 +70,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/fathimafathah7/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/fathimafathah7/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/fathimafathah7/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
