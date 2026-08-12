@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/fathimafathah7/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0066-plus-one](https://github.com/fathimafathah7/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/fathimafathah7/Leetcode/tree/main/0136-single-number/) | Easy |
 | [1929-concatenation-of-array](https://github.com/fathimafathah7/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -83,4 +84,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/fathimafathah7/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/fathimafathah7/Leetcode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
