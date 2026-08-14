@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/fathimafathah7/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/fathimafathah7/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0367-valid-perfect-square](https://github.com/fathimafathah7/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/fathimafathah7/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/fathimafathah7/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1952-three-divisors](https://github.com/fathimafathah7/Leetcode/tree/main/1952-three-divisors/) | Easy |
@@ -89,4 +90,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/fathimafathah7/Leetcode/tree/main/0001-two-sum/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/fathimafathah7/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
