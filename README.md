@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/fathimafathah7/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/fathimafathah7/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/fathimafathah7/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/fathimafathah7/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/fathimafathah7/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/fathimafathah7/Leetcode/tree/main/0136-single-number/) | Easy |
 | [1929-concatenation-of-array](https://github.com/fathimafathah7/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/fathimafathah7/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/fathimafathah7/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/fathimafathah7/Leetcode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fathimafathah7/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2974-minimum-number-game](https://github.com/fathimafathah7/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
