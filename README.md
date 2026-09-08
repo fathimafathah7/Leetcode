@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/fathimafathah7/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/fathimafathah7/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/fathimafathah7/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0268-missing-number](https://github.com/fathimafathah7/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/fathimafathah7/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/fathimafathah7/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/fathimafathah7/Leetcode/tree/main/0507-perfect-number/) | Easy |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/fathimafathah7/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0066-plus-one](https://github.com/fathimafathah7/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/fathimafathah7/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/fathimafathah7/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1929-concatenation-of-array](https://github.com/fathimafathah7/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/fathimafathah7/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/fathimafathah7/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/fathimafathah7/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/fathimafathah7/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/fathimafathah7/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/fathimafathah7/Leetcode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2974-minimum-number-game](https://github.com/fathimafathah7/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Heap (Priority Queue)
@@ -104,10 +108,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/fathimafathah7/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0268-missing-number](https://github.com/fathimafathah7/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/fathimafathah7/Leetcode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/fathimafathah7/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/fathimafathah7/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
