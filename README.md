@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/fathimafathah7/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/fathimafathah7/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/fathimafathah7/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/fathimafathah7/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1929-concatenation-of-array](https://github.com/fathimafathah7/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/fathimafathah7/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/fathimafathah7/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0268-missing-number](https://github.com/fathimafathah7/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/fathimafathah7/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0704-binary-search](https://github.com/fathimafathah7/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
