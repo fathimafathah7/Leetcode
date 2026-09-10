@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/fathimafathah7/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/fathimafathah7/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0412-fizz-buzz](https://github.com/fathimafathah7/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0520-detect-capital](https://github.com/fathimafathah7/Leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/fathimafathah7/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/fathimafathah7/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/fathimafathah7/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
